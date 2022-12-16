@@ -27,15 +27,14 @@ It have indicators for right and wrong answer, score adding facilty, and check v
 
 ### Screenshots
 
-![](https://github.com/KRISHNAPRASADEK/Quiz-App-React/blob/main/public/Screenshot%20(177).png)
+![](https://github.com/ImaniJC/HU-do-you-know/blob/main/ss/Screen%20Shot%202022-12-13%20at%202.41.16%20PM.png)
 <br/>
-![](https://github.com/KRISHNAPRASADEK/Quiz-App-React/blob/main/public/Screenshot%20(178).png)
+![](https://github.com/ImaniJC/HU-do-you-know/blob/main/ss/Screen%20Shot%202022-12-13%20at%202.41.26%20PM.png)
 <br/>
-![](https://github.com/KRISHNAPRASADEK/Quiz-App-React/blob/main/public/Screenshot%20(179).png)
+![](https://github.com/ImaniJC/HU-do-you-know/blob/main/ss/Screen%20Shot%202022-12-13%20at%202.41.54%20PM.png)
 <br/>
-![](https://github.com/KRISHNAPRASADEK/Quiz-App-React/blob/main/public/Screenshot%20(180).png)
-<br/>
-![](https://github.com/KRISHNAPRASADEK/Quiz-App-React/blob/main/public/Screenshot%20(181).png)
+![](https://github.com/ImaniJC/HU-do-you-know/blob/main/ss/Screen%20Shot%202022-12-13%20at%202.42.01%20PM.png)
+
 
 ## Built with 
 
