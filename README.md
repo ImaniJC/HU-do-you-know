@@ -23,11 +23,11 @@ It have indicators for right and wrong answer, score adding facilty, and check v
 
 ### Landing Page
 
-![](https://github.com/KRISHNAPRASADEK/Quiz-App-React/blob/main/public/Screenshot%20(176).png)
+![](https://github.com/ImaniJC/HU-do-you-know/blob/main/ss/Screen%20Shot%202022-12-13%20at%202.41.16%20PM.png)
 
 ### Screenshots
 
-![](https://github.com/ImaniJC/HU-do-you-know/blob/main/ss/Screen%20Shot%202022-12-13%20at%202.41.16%20PM.png)
+![](https://github.com/ImaniJC/HU-do-you-know/blob/main/ss/Screen%20Shot%202022-12-15%20at%207.22.13%20PM.png)
 <br/>
 ![](https://github.com/ImaniJC/HU-do-you-know/blob/main/ss/Screen%20Shot%202022-12-13%20at%202.41.26%20PM.png)
 <br/>
